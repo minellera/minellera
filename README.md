@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Macacow (@o_minella)
+- ✍ UI, UX and Graphic Design
+- 🌱 I’m currently learning Python, html, css and some other stuff
+- 📫 https://linktr.ee/minellera
